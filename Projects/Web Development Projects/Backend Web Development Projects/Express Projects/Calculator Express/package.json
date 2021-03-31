@@ -1,0 +1,15 @@
+{
+  "name": "calculator-express",
+  "version": "1.0.0",
+  "description": "A simple backend calculator using express.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal Ram Haryani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

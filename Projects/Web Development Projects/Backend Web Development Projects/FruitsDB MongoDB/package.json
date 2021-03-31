@@ -1,0 +1,14 @@
+{
+  "name": "fruitsdb-mongodb",
+  "version": "1.0.0",
+  "description": "A simple fruitsDB to test MongoDB and Mongoose.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kunal Ram Haryani",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.11.17"
+  }
+}
