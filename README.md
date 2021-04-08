@@ -2,7 +2,7 @@
 
 This repository contains all of the projects I have completed to learn more about the areas of web development, data analysis, machine learning, scientific computing and ethical hacking.
 
-I learnt the basics of web development from [Angela Yu's Udemy course](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+I learnt the basics of web development from [Angela Yu's Udemy course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) and a bit of mobile app development using React Native from [The Net Ninja's YouTube channel](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
 
 I learnt the basics of ethical hacking from [Heath Adam's Udemy course](https://www.udemy.com/course/practical-ethical-hacking/) 
 
