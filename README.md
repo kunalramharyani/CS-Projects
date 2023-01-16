@@ -42,6 +42,8 @@ They helped me understand what I liked doing the most and what I wanted to pursu
     - [Blog Website with DB](https://github.com/kunalramharyani/CS-Projects/tree/main/Projects/Web%20Development%20Projects/Full%20Stack%20Web%20Development%20Projects/Blog%20Website%20with%20DB) : A full stack blog webapp.
     - [Secrets Web App Authentication](https://github.com/kunalramharyani/CS-Projects/tree/main/Projects/Web%20Development%20Projects/Full%20Stack%20Web%20Development%20Projects/Secrets%20Web%20App%20Authentication) : A full stack webapp to post secrets as a registered user.
     - [ToDo List Mongoose](https://github.com/kunalramharyani/CS-Projects/tree/main/Projects/Web%20Development%20Projects/Full%20Stack%20Web%20Development%20Projects/ToDoList%20Mongoose) : A ToDo List with a MongoDB database.
+    - [Decentralized Bank](https://github.com/kunalramharyani/CS-Projects/tree/main/Projects/Web%20Development%20Projects/Full%20Stack%20Web%20Development%20Projects/Decentralized%20Bank/dbank) : A decentralized app for simple banking.
+    - [Decentralized Keeper](https://github.com/kunalramharyani/CS-Projects/tree/main/Projects/Web%20Development%20Projects/Full%20Stack%20Web%20Development%20Projects/Decentralized%20Keeper%20React%20App/dkeeper) : A decentralized note taking app similar to Google Keep.
 
 2. [Scientific Computing](https://github.com/kunalramharyani/CS-Projects/tree/main/Projects/Scientific%20Computing%20Projects)
     - [Arithmetic Formatter](https://github.com/kunalramharyani/CS-Projects/blob/main/Projects/Scientific%20Computing%20Projects/Arithmetic%20Formatter/arithmetic_arranger.py) : Formatting of simple arithmetic problems.
